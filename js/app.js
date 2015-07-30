@@ -46,3 +46,22 @@ $('#itemToggle').hide()
   //           	<div class="row menuItem">Css</div>
 		// 		<div class="row menuItem">Firebase</div>
   //    			</div> 
+
+
+  	// <i class="fa fa-info" id="navDetail" data-toggle="modal" data-target="#myModal" ></i>
+			// 				<div class="modal fade" id="myModal1" role="dialog">
+   //  							<div class="modal-dialog modal-lg">
+   //   								<div class="modal-content">
+   //     									<div class="modal-header">
+   //        									<button type="button" class="close" data-dismiss="modal">&times;</button>
+   //        									<h4 class="modal-title">Tic-Tac-Toe game built with Angular.js and Firebase </h4>
+   //      								</div>
+   //      								<div class="modal-body">
+   //        									<li>Firebase Application</li>
+   //        									<li>CSS animation</li>
+   //        									<li>Responsive , Mobile Optimized</li>
+   //       									<li> Real-time gameplay on multiple devices</li>
+   //      								</div>
+   //    								</div>
+   //  							</div>
+  	// 						</div>
