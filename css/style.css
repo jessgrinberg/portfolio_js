@@ -1,0 +1,104 @@
+body {
+	 background-color: #f6d8d0;
+}
+
+#name {
+	display: block;
+	position: absolute;
+	font-family: Helvetica Neue;
+	font-weight: 10px;
+	color: white;
+	margin-top: 40vh;
+	font-size: 3vw;
+	z-index: 300;
+	text-align: center;
+	width: 100vw;
+	letter-spacing: .15em;
+	/*border-style: solid;*/
+    border-width: 4px;
+    padding: 15px;
+}
+
+
+/*This is needed to make the typing animation*/
+.css-typing
+{
+    width: 100vw;
+    white-space:nowrap;
+    overflow:hidden;
+    -webkit-animation: type 8s steps(50, end);
+    animation: type 3s steps(50, end);
+}
+
+@keyframes type{
+    from { width: 0; }
+}
+
+@-webkit-keyframes type{
+    from { width: 0; }
+}
+
+/*Until Here*/
+
+#top {
+	width: 100vw;
+	height: 100vh;
+	top: 0;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;	
+  	background-color: #f6d8d0;
+}
+
+.thumbnail {
+	background-color: #F6D8D0;
+     border: 0px solid #ddd; 
+}
+
+/*.thumbnail {
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: #f6d8d0;
+    border: 0px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+}*/
+
+.menuItem {
+	padding: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#main-footer {
+    background: black;
+    opacity: .98;
+    color: #fff;
+    padding: 30px 0 15px;
+    height: 100px;
+    width: 100%;
+    margin-top: 25px;
+}
+
+#copy {
+	margin: 10px;
+}
