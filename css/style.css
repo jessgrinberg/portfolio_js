@@ -66,7 +66,7 @@ nav {
 
 p {
 	text-align: center;
-	font-size: 21px;
+	font-size: 18px;
 }
 
 .menuToggle {
@@ -242,12 +242,28 @@ form .row:first-child .floating-label-form-group {
 	font-size: 24px;
 }
 
+.label-default {
+    background-color: #FFF1ED;
+}
+
+.label {
+	color: black;
+}
+
+.modal-title {
+	text-align: center;
+}
+
+h1 small {
+    color: #FFF;
+    font-style: italic;
+    font-family: Helvetica Neue;
+}
 
 
-
-
-
-
+.lead {
+	padding: 25px;
+}
 #main-footer {
     background: black;
     opacity: .98;
@@ -260,4 +276,23 @@ form .row:first-child .floating-label-form-group {
 
 #copy {
 	margin: 10px;
+}
+
+.thumbnail {
+	padding: 60px;
+}
+
+
+#appty {
+margin-top: -15px;
+	padding: 10px;
+
+}
+
+#movie {
+	padding: 25px;
+}
+
+#tic {
+	padding: 10px;
 }
